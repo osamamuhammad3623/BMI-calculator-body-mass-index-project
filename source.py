@@ -51,3 +51,5 @@ if __name__ == "__main__":
     window = my_form()
     window.show()
     sys.exit(application.exec_())
+    
+#osama_muhammad
